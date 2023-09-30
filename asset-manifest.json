@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Login-Signup-page-Using-React/static/css/main.2814cbe2.css",
+    "main.js": "/Login-Signup-page-Using-React/static/js/main.0329a725.js",
+    "static/js/787.9aad22de.chunk.js": "/Login-Signup-page-Using-React/static/js/787.9aad22de.chunk.js",
+    "static/media/logo.svg": "/Login-Signup-page-Using-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Login-Signup-page-Using-React/index.html",
+    "main.2814cbe2.css.map": "/Login-Signup-page-Using-React/static/css/main.2814cbe2.css.map",
+    "main.0329a725.js.map": "/Login-Signup-page-Using-React/static/js/main.0329a725.js.map",
+    "787.9aad22de.chunk.js.map": "/Login-Signup-page-Using-React/static/js/787.9aad22de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2814cbe2.css",
+    "static/js/main.0329a725.js"
+  ]
+}
